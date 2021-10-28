@@ -31,7 +31,7 @@ const blogs = [
   },
 
   {
-    author: "Kingsley Tawiah",
+    author: "Kingsley A. Tawiah",
     aboutAuthor: "Gamer at Activision",
     title: "Earning CPs easily",
     description:

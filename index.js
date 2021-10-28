@@ -120,7 +120,7 @@ const schemas = gql`
   }
 `;
 
-//Resolvers
+//Creating the Resolvers
 const blogResolvers = {
   Query: {
     blogs: () => blogs,

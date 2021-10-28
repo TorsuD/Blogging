@@ -58,7 +58,7 @@ const blogs = [
   },
 
   {
-    author: "Dennis Torsu",
+    author: "Dennis Elorm",
     aboutAuthor: "CEO of Betway",
     title: "How to win big",
     description:

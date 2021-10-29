@@ -112,7 +112,7 @@ const blogs = [
     aboutAuthor: "R&B Musician",
     title: "Ordinary Life",
     description:
-      "In my years of experience as a Christian I have seen God show up in many ways, sometimes (mostly) unexpectedly. He can show up during a prayer, a song at church, a night of conversation with friends, or through random acts of kindness. He is not limited to any aspect of life, so he can show up as he pleases.",
+      "In my years of experience as a person of God I have seen God show up in many ways, sometimes (mostly) unexpectedly. He can show up during a prayer, a song at church, a night of conversation with friends, or through random acts of kindness. He is not limited to any aspect of life, so he can show up as he pleases.",
     date: "5th May,2021",
     likes: 1000,
     comment: [],
